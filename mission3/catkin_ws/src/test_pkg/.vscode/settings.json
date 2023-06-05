@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/v2t-smi/carla/PythonAPI/carla/dist/carla-0.9.13-py3.8-linux-x86_64.egg",
+        "/home/v2t-smi/carla/PythonAPI/carla"
+    ]
+}

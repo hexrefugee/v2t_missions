@@ -1,0 +1,8 @@
+prefix=/home/v2t-smi/carla-code/HHH/mission9/carla_aloam/install
+
+Name: vehicle_aloam
+Description: Description of vehicle_aloam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

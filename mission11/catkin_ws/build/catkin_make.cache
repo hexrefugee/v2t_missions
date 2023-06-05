@@ -1,0 +1,2 @@
+test_pkg
+-DCATKIN_DEVEL_PREFIX=/home/v2t-smi/carla-code/HHH/mission11/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/v2t-smi/carla-code/HHH/mission11/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+vehicle_aloam
+-DCATKIN_DEVEL_PREFIX=/home/v2t-smi/carla-code/HHH/mission9/carla_aloam/devel -DCMAKE_INSTALL_PREFIX=/home/v2t-smi/carla-code/HHH/mission9/carla_aloam/install -G Unix Makefiles
